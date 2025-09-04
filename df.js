@@ -1,6 +1,5 @@
 let x = +prompt('введите x')
 let y = +prompt('введите y')
-let e = +prompt('введите e')
-let d
-d = (x * e^x*y + 8 * (Math.sin, 2) * x) / (x *(x-y)*(3 * x + y))
-console.log(d)
+let a = (14* Math.sin * x + y^2) / (0.92 * Math.cos^3 * x)
+console.log (a)
+alert(a)
