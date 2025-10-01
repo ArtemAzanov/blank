@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 #include <cmath>
 using namespace std;
-#include <algorithm>
 int main()
 {
     setlocale(LC_ALL, "Russian");
@@ -37,4 +36,5 @@ int main()
     cout << "z = " << z << endl;
 
     return 0;
+
 }
