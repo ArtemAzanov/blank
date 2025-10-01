@@ -9,8 +9,7 @@ Console.WriteLine("введите a:");
 double a = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("введите b:");
 double b = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("введите z:");
-double z = Convert.ToDouble(Console.ReadLine());
+double z = 0;
 if (x > 0  &&  y > 0){
     double maxEl = a / x; 
     if (maxEl < b/x){
@@ -37,3 +36,4 @@ else
     
 }
 Console.WriteLine(z);
+
